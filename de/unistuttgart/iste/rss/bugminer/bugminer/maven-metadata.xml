@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.unistuttgart.iste.rss.bugminer</groupId>
+  <artifactId>bugminer</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150318232534</lastUpdated>
+  </versioning>
+</metadata>
