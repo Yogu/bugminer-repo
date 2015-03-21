@@ -3,9 +3,11 @@
   <groupId>de.unistuttgart.iste.rss.bugminer</groupId>
   <artifactId>binary-coverage</artifactId>
   <versioning>
+    <release>0.1.0</release>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
+      <version>0.1.0</version>
     </versions>
-    <lastUpdated>20150318232928</lastUpdated>
+    <lastUpdated>20150321163506</lastUpdated>
   </versioning>
 </metadata>
